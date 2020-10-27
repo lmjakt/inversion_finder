@@ -3,7 +3,7 @@
 Find inverted repeats in long sequences quickly.
 
 inversion_finder provides a function to R that performs a cancelling
-k-mer count, decrementin an overall k-mer number when encountering
+k-mer count, decrementing an overall k-mer number when encountering
 k-mers whose reverse complement have been observed previously in
 the sequence analysed.
 
